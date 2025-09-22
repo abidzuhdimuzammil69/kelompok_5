@@ -6,7 +6,7 @@ public class Dosen {
         System.out.println("PBO");
     }
 
-    public String mengerjakanPenelitian(){
+    public String mengerjakanPeenelitian(){
         return "dosen mengerjakan penelitian";
     }
     
